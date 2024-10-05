@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "carousel-app-react-native",
-    "slug": "carousel-app-react-native",
+    "name": "Faruh App",
+    "slug": "Faruh App",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/IconKitchen-Output/android/",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
